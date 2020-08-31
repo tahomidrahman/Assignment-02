@@ -1,0 +1,96 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+.heading{
+	margin: 20px;
+}
+.heading h4{
+	text-align: center;
+	color: tomato;
+	font-size: 20px;
+	padding: 20px;
+}
+
+.box{
+	height: 20px;
+	width: 55px;
+	background-color: dodgerblue;
+	margin: 20px 550px 0px 550px;
+}
+.box h6{
+	padding: 2px 0px 0px 7px;
+}
+.boxa{
+	height: 20px;
+	width: 55px;
+	background-color: tomato;
+	margin: -20px 450px 0px 650px;
+}
+.boxa h6{
+ 	padding: 2px 0px 0px 7px;
+
+}
+.boxb{
+	height: 20px;
+	width: 55px;
+	background-color: orange;
+	margin: -20px 400px 0px 750px;
+}
+.boxb h6{
+	padding: 2px 0px 0px 7px;
+
+}
+.boxc form {
+	margin: 25px 600px 0px 550px;
+	padding: 10px 10px 2px 0px;
+}
+.boxc form input {
+	padding: 2px px 2px 3px;
+}
+
+.condition h6{
+	margin: 15px 500px 0px 550px;
+}
+.account{
+	height: 30px;
+	width: 250px;
+	background-color: DodgerBlue;
+	margin: 15px 600px 0px 550px;
+
+}
+.account h6{
+	color: white;
+	margin: 10px 600px 0px 100px;
+}
+.account_info h4 a{
+	color: DodgerBlue;
+}
+.account_info h4{
+	margin: 30px 450px 0px 550px; 
+}
+.social_media{
+	text-align: center;
+	margin-top: 40px;
+}	
+.social_media ul li{
+	display: inline-block;
+}
+.social_media ul li a i{
+	font-size: 28px;
+	height: 60px;
+	width: 60px;
+	background-color:DodgerBlue;
+	border-radius: 100px;
+	text-align: center;
+	line-height: 60px;
+	color: white;
+	transition: 0.5s
+
+}
+.social_media ul li a i:hover{
+	background-color: tomato;
+	transition: 0.5s
+	transform: scale(1.2);
+}
